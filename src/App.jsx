@@ -11,7 +11,7 @@ const App = () => (
             </div>
         </div>
         <div className={`bg-primary ${styles.flexStart}`}>
-            <div className={`${styles.boxWidth}`}>
+            <div className={`xl:w-[88%] xl:relative xl:right-[-6%]`}>
                 <Hero />
             </div>
         </div>
