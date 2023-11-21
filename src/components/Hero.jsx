@@ -1,9 +1,11 @@
-import React from 'react'
+import styles from '../style';
+import {discount, robot} from '../assets';
 
 const Hero = () => {
     return (
-        <div className='bg-white'>Hero</div>
-    )
+        <section id='home' className='bg-white'>
+
+        </section>)
 }
 
 export default Hero
