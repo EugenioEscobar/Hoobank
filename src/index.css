@@ -56,6 +56,7 @@
     #bef3f5 51.94%,
     #def9fa 90.29%
   );
+  transition: 0.5s ease-in;
 }
 
 .bg-black-gradient {
